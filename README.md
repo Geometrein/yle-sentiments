@@ -2,7 +2,7 @@
 The repository contains a short sentiment analysis done on YLE's 2021 and 2022 data.
 
 
-![Tux, the Linux mascot](images/compound.png)
+![sample_image](images/compound_2022.png)
 
 
 
