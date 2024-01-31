@@ -20,7 +20,4 @@ Data contains publication date, article headline and the link to the full articl
 
 
 The full datasets can be found here:
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-5ABBF9?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/geometrein/finland-news)
-
 [![GitHub](https://img.shields.io/badge/GitHib-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geometrein/yle-sentiments/tree/main/data)
